@@ -3,7 +3,7 @@
     "id": 1,
     "title": "1. Frontera o Límite",
     "modelFocus": "",
-    "description": "Las plantas cumplen este principio, ya que están claramente delimitadas de su entorno.",
+    "description": "Delimita el sistema y permite identificar lo que pertenece y no pertenece a él.",
     "detail": "Los tejidos de protección forman la parte más externa de los órganos de las plantas y se encuentran en contacto con el medio ambiente [...] La epidermis es la capa celular más externa de las plantas [...] La epidermis constituye el tejido de protección de tallos, hojas, raíces, flores, frutos y semillas.",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_proteccion.php?tema=w"
   },
@@ -11,14 +11,14 @@
     "id": 2,
     "title": "2. Entorno",
     "modelFocus": "",
-    "description": "",
-    "detail": ""
+    "description": "Es el área de condiciones y sucesos que influyen en el comportamiento del sistema. El sistema objeto de estudio siempre se encuentra inmerso en un ambiente o entorno.",
+    "detail": "La luz del sol, el dioxido de carbono en el airea, agua y minerales son ejemplos del entorno."
   },
   {
     "id": 3,
     "title": "3. Estructura",
     "modelFocus": "",
-    "description": "Las plantas cuentan con una estructura bien definida.",
+    "description": "Se refiere a las diferentes partes (elementos) que conforman el sistema y a sus interacciones (más o menos estables).",
     "detail": "A pesar de su aparente diversidad, todas las plantas con semillas tiene la misma estructura básica. El cuerpo vegetativo está formado por tres órganos: hoja, tallo y raíz. [...] Las hojas se unen al tallo en los nudos y la región del tallo entre dos nudos se denomina entrenudo. Al tallo más las hojas se les suele denominar vástago.",
     "referencia" : "Fisiología vegetal, volumen 1, Lincoln Taiz, página 2 "
   },
@@ -26,44 +26,48 @@
     "id": 4,
     "title": "4. Recursividad",
     "modelFocus": "",
-    "description": "La planta es un sistema dentro de otros sistemas. Célula, organos, etc.",
-    "detail": "Los tejidos conductores (xilema y floema) forman un sistema cohesionado, continuo y que se extiende por toda la planta. El xilema está asociado a la absorción y conduce agua y solutos por todo el cuerpo de la planta y, el floema, a la conducción de las sustancias elaboradas por la fotosíntesis. Los tejidos no vasculares tienen una continuiad semejante y cumplen diversas funciones como fotosíntensis, reserva, relleno, secreción, sostén, intercambio gaseoso, proyección y secreción.",
+    "description": "Se refiere al hecho de que un sistema este compuesto por elementos que poseen características que los convierten a su vez en sistemas (sub sistemas).",
+    "detail": "Los tejidos conductores (xilema y floema) forman un sistema cohesionado, continuo y que se extiende por toda la planta. El xilema está asociado a la absorción y conduce agua y solutos por todo el cuerpo de la planta y, el floema, a la conducción de las sustancias elaboradas por la fotosíntesis. Los tejidos no vasculares tienen una continuiad semejante y cumplen diversas funciones como fotosíntensis, reserva, relleno, secreción, sostén, intercambio gaseoso y proyección.",
     "referncia" : "Atlas de anatomía vegetal, Nancy M. Apóstolo, 1a ed, 2021, pp. 10-11"
   },
   {
     "id": 5,
     "title": "5. Jerarquía",
     "modelFocus": "",
-    "description": "Una planta contiene subsistemas anidados: A nivel celular (cloroplastos, mitocondrias), a nivel tisular (xilema, floema, epidermis), nivel orgánico (ráiz, hoja, flor), nivel del organismo (la planta completa) ",
-    "detail": ""
+    "description": "Muestra la organización de un sistema en diferentes niveles (cada nivel tiene una complejidad mayor que el anterior) interconectados, cada nivel es un subsistema de un sistema mayor. La jerarquía se da en función del grado de complejidad.",
+    "detail": "Agrupan sus células y las especializan para formar tejidos, los cuales desempeñan funciones especializadas para hacer frente a estas nuevas dificultades. Atendiendo a razones topográficas, los tejidos se agrupan a su vez en organizaciones superiores denominadas sistemas de tejidos (Sachs, 1875), y éstos se asocian para formar los órganos. ",
+    "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_inicio.php"
   },
   {
     "id": 6,
     "title": "6. Complejidad",
     "modelFocus": "",
-    "description": "",
-    "detail": ""
+    "description": "Se asocia a la cantidad de elementos del sistema y a sus potenciales interacciones (conectividad).",
+    "detail": "Solo en el cuerpo primario de las platas encontramos: epidermis (protección e intercambio gaseoso), parénquima (relleno, reserva y metabolismo), tejidos y estructuras escretoras, colénquima (sostén), floeman (Conducción de sustancias elaboradas), xilema (conducción de agua y solutos) y meristemas (división celular). Eso sin contar las partes de la celula vegetal y todos los subsistemas que interactuan constantemente.",
+    "referencia": "Fisiología vegetal, volumen 1, Lincoln Taiz, página 29"
   },
   {
     "id": 7,
-    "title": "7. Totalida",
+    "title": "7. Totalidad",
     "modelFocus": "",
-    "description": "",
-    "detail": ""
+    "description": "El comportamiento de un sistema no pueden entenderse analizando sus componentes de manera aislada.",
+    "detail": "La célula vegetal presenta comportamientos idénticos a los observados en la célula animal: la mitocondrias fabrican energía en forma de ATP; el retículo endosplamatico liso y rugoso es la fábrica de membranas y sintetiza lípidos y proteínas; y los ribosomas sintetizan los polipétidos.",
+    "referencia": "Fisiología vegetal, volumen 1, Lincoln Taiz, página 14"
   },
   {
     "id": 8,
     "title": "8. Equifinalidad",
     "modelFocus": "",
-    "description": "",
-    "detail": ""
+    "description": "Un sistema puede alcanzar el mismo resultado final a través de diferentes caminos, lo que refleja la adaptabilidad y flexibilidad de los sistemas abiertos. El estado final de un sistema (dinámicos y complejos) depende más de la interrelación entre sus elementos que de su estado inicial.",
+    "detail": "Una planta puede alcanzar su madurez reproductiva por distintas rutas: creciendo rápido con mucha luz, o lentamente en sombra; reproduciéndose por semillas o por estolones. El resultado (una planta adulta fértil) se logra mediante trayectorias diversas."
   },
   {
     "id": 9,
     "title": "9. Sinergia",
     "modelFocus": "",
-    "description": "",
-    "detail": ""
+    "description": "Permite comprender el funcionamiento de un sistema por la interacción de sus partes y no por el estudio de ellas en forma aislada. “El todo es más que la suma de sus partes.”",
+    "detail": "Para entender como se alimenta una planta, debemos entender como funciona cada uno de los tejidos que intevienen en su alimentación y como interactuan entre ellos. El parénquima, Es un tejido sencillo que está implicado en una gran variedad de funciones dependiendo de dónde se encuentre, tales como la fotosíntesis, el almacenamiento, la elaboración de sustancias orgánicas y la regeneración de tejidos. El xilema, se encarga del transporte y reparto de agua y sale minerales provenientes de la raiz al resto de la planta. El floema, su misión es transportar y repartir por todo el cuerpo de la planta las sustancias carbonadas producidas durante la fotosíntesis. ",
+    "referencia": "parénquima: https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_parenquima.php, xilema: https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_conductores.php#xilema, floema: https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_conductores.php#floema "
   },
   {
     "id": 10,
