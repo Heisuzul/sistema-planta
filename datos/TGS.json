@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "1. Frontera o Límite",
+    "modelFocus": "",
+    "description": "Las plantas cumplen este principio, ya que están claramente delimitadas de su entorno.",
+    "detail": "Los tejidos de protección forman la parte más externa de los órganos de las plantas y se encuentran en contacto con el medio ambiente [...] La epidermis es la capa celular más externa de las plantas [...] La epidermis constituye el tejido de protección de tallos, hojas, raíces, flores, frutos y semillas.",
+    "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_proteccion.php?tema=w"
+  },
+  {
+    "id": 2,
+    "title": "2. Entorno",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 3,
+    "title": "3. Estructura",
+    "modelFocus": "",
+    "description": "Las plantas cuentan con una estructura bien definida.",
+    "detail": "A pesar de su aparente diversidad, todas las plantas con semillas tiene la misma estructura básica. El cuerpo vegetativo está formado por tres órganos: hoja, tallo y raíz. [...] Las hojas se unen al tallo en los nudos y la región del tallo entre dos nudos se denomina entrenudo. Al tallo más las hojas se les suele denominar vástago.",
+    "referencia" : "Fisiología vegetal, volumen 1, Lincoln Taiz, página 2 "
+  },
+  {
+    "id": 4,
+    "title": "4. Recursividad",
+    "modelFocus": "",
+    "description": "La planta es un sistema dentro de otros sistemas. Célula, organos, etc.",
+    "detail": "Los tejidos conductores (xilema y floema) forman un sistema cohesionado, continuo y que se extiende por toda la planta. El xilema está asociado a la absorción y conduce agua y solutos por todo el cuerpo de la planta y, el floema, a la conducción de las sustancias elaboradas por la fotosíntesis. Los tejidos no vasculares tienen una continuiad semejante y cumplen diversas funciones como fotosíntensis, reserva, relleno, secreción, sostén, intercambio gaseoso, proyección y secreción.",
+    "referncia" : "Atlas de anatomía vegetal, Nancy M. Apóstolo, 1a ed, 2021, pp. 10-11"
+  },
+  {
+    "id": 5,
+    "title": "5. Jerarquía",
+    "modelFocus": "",
+    "description": "Una planta contiene subsistemas anidados: A nivel celular (cloroplastos, mitocondrias), a nivel tisular (xilema, floema, epidermis), nivel orgánico (ráiz, hoja, flor), nivel del organismo (la planta completa) ",
+    "detail": ""
+  },
+  {
+    "id": 6,
+    "title": "6. Complejidad",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 7,
+    "title": "7. Totalida",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 8,
+    "title": "8. Equifinalidad",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 9,
+    "title": "9. Sinergia",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 10,
+    "title": "10. Emergencia",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 11,
+    "title": "11. Resiliencia",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 12,
+    "title": "12. Adaptabilidad",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 13,
+    "title": "13. Homeóstasis",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 14,
+    "title": "14. Equiilibrio",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 15,
+    "title": "15. Entropía",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 16,
+    "title": "16. Neguentropía",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 17,
+    "title": "17. Retroalimentación",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 18,
+    "title": "18. Multicausalidad",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  },
+  {
+    "id": 19,
+    "title": "19. Complementariedad",
+    "modelFocus": "",
+    "description": "",
+    "detail": ""
+  }
+]
