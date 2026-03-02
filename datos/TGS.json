@@ -72,7 +72,7 @@
   {
     "id": 10,
     "title": "10. Emergencia",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Los elementos que componen un sistema (células, tejidos) al interactuar, generan propiedades que no existen en ellos de forma aislada, pero que surgen como resultado de la interacción a nivel del sistema completo. En la planta, la fotosíntesis y la consecuente liberación de oxígeno son propiedades emergentes que resultan de la compleja organización e interacción de sus partes (cloroplastos, estomas, tejidos vasculares, etc.), y no son realizables por una célula o tejido por separado.",
     "detail": "Fotoautótrofas quiere decir que utilizan la luz solar, agua y sales minerales y CO2 atmosférico para sintetizar todas las moléculas orgánicas que necesitan como azúcares, proteínas, lípidos y nucleótidos. [...] Otra característica de las plantas es que no generan prácticamente residuos resultantes de su actividad metabólica, excepto el oxígeno. (Sección: INTRODUCCIÓN)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_inicio.php"
@@ -80,7 +80,7 @@
   {
     "id": 11,
     "title": "11. Resiliencia",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Es la capacidad que tiene un sistema para resistir cambios producidos por su entorno y recuperarse, sin realizar cambios permanentes en su estructura. La planta, tras una herida, puede regenerar tejidos y restaurar su función gracias a la actividad de células especializadas.",
     "detail": "Parte de la capacidad de regeneración de las plantas tras sufrir heridas se debe a la actividad de las células parenquimáticas. [...] Las células parenquimáticas son las principales responsables de la reparación de las heridas. (Sección: PARÉNQUIMA)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_parenquima.php"
@@ -88,7 +88,7 @@
   {
     "id": 12,
     "title": "12. Adaptabilidad",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Es la capacidad que tiene un sistema para adaptarse a los cambios inducidos por su entorno modificando su estructura, lo que permite la evolución del sistema. La planta modifica la organización de sus tejidos (como el mesófilo de la hoja) en respuesta a condiciones ambientales como la intensidad de luz.",
     "detail": "La organización del mesófilo varía mucho en función de la especie de planta y de las condiciones ambientales. El parénquima clorofílico de las hojas se puede adaptar a las condiciones de luz que reciben. Por ejemplo, en la planta acuática H. morsus ranae, el mesófilo es más delgado en las hojas crecidas en la sombra que en las de luz, aumenta del parénquima esponjoso respecto al de en empalizada. Además, las células parenquimáticas incrementan el tamaño de sus cloroplastos, de sus grana y el contenido en clorofila también aumenta. (Sección: PARÉNQUIMA - 1. Clorofílico)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_parenquima.php"
@@ -96,7 +96,7 @@
   {
     "id": 13,
     "title": "13. Homeóstasis",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Capacidad de un sistema para mantener un estado interno estable mediante la autorregulación, a pesar de los cambios del entorno. La planta regula la transpiración y el intercambio de gases a través del movimiento de apertura y cierre de los estomas, manteniendo un balance hídrico interno.",
     "detail": "Otras funciones de la epidermis trascendentales para la vida de la planta son la regulación de la transpiración, el intercambio de gases [...] Las células oclusivas tienen forma arriñonada o de palillo de tambor, presentan cloroplastos y una pared celular engrosada de manera no uniforme que posibilita que los cambios de turgencia puedan variar su morfología y de este modo aumentar o disminuir el diámetro del ostiolo. (Sección: PROTECCIÓN - 1. Epidermis)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_proteccion.php"
@@ -104,7 +104,7 @@
   {
     "id": 14,
     "title": "14. Equilibrio",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Busca mantener el sistema en el mismo estado a lo largo del tiempo porque las fuerzas internas y externas están balanceadas, con bajo o nulo consumo energético. En la planta, los meristemos mantienen un balance constante entre la producción de nuevas células y su diferenciación.",
     "detail": "El número de células en un meristemo apical, caulinar o radical, se mantiene relativamente constante a lo largo del tiempo puesto que hay un equilibrio entre las células producidas y las diferenciadas. (Sección: MERISTEMOS - 2. Meristemos primarios)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_meristemos.php"
@@ -112,7 +112,7 @@
   {
     "id": 15,
     "title": "15. Entropía",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Es el desgaste que presenta un sistema en el tiempo debido a su funcionamiento. Los sistemas altamente entrópicos tienden a desaparecer. En la planta, ciertos tejidos como el protoxilema se degradan y desaparecen durante el crecimiento, cediendo su lugar a nuevos tejidos.",
     "detail": "En primer lugar se forma el protoxilema a partir del meristemo procámbium. Completa su desarrollo durante la elongación del órgano y luego desaparece por fuerzas mecánicas producidas durante el crecimiento. (Sección: CONDUCTORES - 2. Xilema)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_conductores.php"
@@ -120,7 +120,7 @@
   {
     "id": 16,
     "title": "16. Neguentropía",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Es la energía que el sistema importa del entorno para mantener su organización y funcionamiento, evitando que el sistema se desvanezca (degradación entrópica). La planta, como ser vivo, importa energía solar, agua y CO2 para sintetizar materia orgánica y mantener su orden biológico.",
     "detail": "Fotoautótrofas quiere decir que utilizan la luz solar, agua y sales minerales y CO2 atmosférico para sintetizar todas las moléculas orgánicas que necesitan como azúcares, proteínas, lípidos y nucleótidos. (Sección: INTRODUCCIÓN)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_inicio.php"
@@ -128,7 +128,7 @@
   {
     "id": 17,
     "title": "17. Retroalimentación",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Se produce cuando las salidas del sistema o la influencia de estas en el entorno, vuelven a ingresar al sistema como información, permitiendo el control y la toma de medidas. Este principio establece una concepción no lineal de la causalidad. En la planta, la hormona auxina genera un ciclo de retroalimentación positiva para la diferenciación del procámbium.",
     "detail": "Las células, para ser procámbium necesitan una alta concentración de auxina, y una vez diferenciadas parecen canalizar mejor la auxina a su vecina, por lo que ésta también se diferencia en procámbium, y así sucesivamente. (Sección: MERISTEMOS - 4. Otros meristemos)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_meristemos.php"
@@ -136,7 +136,7 @@
   {
     "id": 18,
     "title": "18. Multicausalidad",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "En los sistemas, los fenómenos no se explican por una sola causa, sino por la interacción de múltiples factores internos y externos. La diferenciación de una célula meristemática en la planta no depende de una sola causa, sino de su posición, las señales moleculares del entorno y su linaje celular.",
     "detail": "En las plantas el camino de diferenciación de las células meristemáticas, es decir, en qué se van a convertir, está determinado por la posición y las señales que hay en cada lugar. Aunque hay una determinación por linaje celular, la posición de la célula en el meristemo es una señal más fuerte que domina su diferenciación. (Sección: MERISTEMOS - 1. Introducción)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_meristemos.php"
@@ -144,7 +144,7 @@
   {
     "id": 19,
     "title": "19. Complementariedad",
-    "modelFocus": ,
+    "modelFocus": "",
     "description": "Ningún sistema puede ser comprendido en su totalidad desde una sola perspectiva. Diferentes enfoques (estructural, funcional, genético, ecológico) son necesarios y se complementan. En la planta, el estudio de la estructura de la pared celular y su función son perspectivas complementarias e inseparables para entender el tejido y el órgano que conforman.",
     "detail": "Las características de las células y tejidos de las plantas son un reflejo de su actividad y de su función: [...] Pared celular: 1.- Las células de las plantas presentan una estructura denominada pared celular que recubre externamente a su membrana plasmática. Se sintetiza por la propia célula y determina la forma y el tamaño de las células, la textura del tejido y la forma del órgano. Incluso los diferentes tipos celulares se identifican por la estructura de la pared. (Sección: INTRODUCCIÓN)",
     "referencia": "https://mmegias.webs.uvigo.es/1-vegetal/guiada_v_inicio.php"
