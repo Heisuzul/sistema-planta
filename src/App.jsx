@@ -1,39 +1,27 @@
-import { Suspense, useState } from 'react'
 import './App.css'
-import {Canvas} from '@react-three/fiber'
-import {Environment, OrbitControls} from '@react-three/drei'
-import Tomato_plant_diagram from '../public/tomato_plant_diagram/Tomato_plant_diagram'
-import Tomato_plant from '../public/tomato_plant/Tomato_plant'
-import Dead_plant from '../public/dead_plant/Dead_plant'
+import { useState } from 'react'
+import principles from "../datos/TGS.json"
+import MenuPrincipios from './components/MenuPrincipios.jsx'
+import MenuExplicacion from './components/MenuExplicacion.jsx'
+import MyCanvas from './components/MyCanvas.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [activeIndex, setActiveIndex] = useState(0)
+  const currentPrinciple = principles[activeIndex]
 
   return (
-    <>
-     <Canvas camera={{ position: [0, 0, 2.7], fov: 40 }}>
-      <ambientLight intensity={0.5} />
-      <OrbitControls />
-      <Suspense fallback={null}>
-        <Tomato_plant_diagram 
-          scale={0.5}
-          position={[-1.2, 0, 0]}
-          rotation={[0, Math.PI, 0]}
-        />
-        <Tomato_plant
-          scale={2.3}
-          position={[0, -0.4, 0]}
-          rotation={[1.6, Math.PI, 3]}
-         />
-        <Dead_plant
-          scale={0.01}
-          position={[1.2, -0.4, 0]}
-          rotation={[0, Math.PI, 0]}
-         />
-      </Suspense>
-      <Environment preset="sunset" />
-     </Canvas>
-    </>
+    <div className='app' >
+      <MenuPrincipios principles={principles} activeIndex={activeIndex} setActiveIndex={setActiveIndex} />
+      <div className='canva' >
+        <MyCanvas />
+        <div style={{ position: 'absolute', top: 20, left: 20, pointerEvents: 'none' }}>
+          <h1 style={{ margin: 0, fontSize: '24px', textShadow: '0 2px 4px rgba(0,0,0,0.8)' }}>
+            {currentPrinciple.title}
+          </h1>
+        </div>
+      </div>
+      <MenuExplicacion currentPrinciple={currentPrinciple} />
+    </div>
   )
 }
 
